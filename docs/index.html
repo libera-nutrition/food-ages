@@ -131,9 +131,12 @@
                 },
                 "order": [], // Disable initial sorting
                 "scrollX": true,
+                "columnDefs": [
+                    { "orderable": true, "targets": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19], "orderSequence": ["desc", "asc"] }
+                ],
                 "initComplete": function() {
                     var table = this;
-
+    
                     // Search logic for the 'Food' column:
                     $.fn.dataTable.ext.search.push(
                         function(settings, data, dataIndex) {
@@ -145,7 +148,7 @@
                             return true;
                         }
                     );
-
+    
                     // Swap the positions of the search box and length menu:
                     var lengthMenu = $('.dataTables_length');
                     var searchBox = $('.dataTables_filter');
@@ -156,6 +159,6 @@
                 }
             });
         });
-    </script>
+    </script>    
 </body>
 </html>
