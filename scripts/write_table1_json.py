@@ -85,6 +85,7 @@ def write_table1_dataframe_to_json_file(df: pd.DataFrame, output_file: str) -> N
         df: Table dataframe
         output_file: Path to the output text file.
     """
+    df = df[[c for c in df.columns if c not in AGE_NAMES] + AGE_NAMES]  # Move individual AGE columns to the end.
     df = df.rename(columns={"Food": "Category", "Specification": "Food", "MG-H1/3": "MG-H1+3"})  # Intentionally not in-place.
     
     print(f"Writing table dataframe with {len(df):,} rows to JSON file {output_file}")
