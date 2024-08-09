@@ -89,7 +89,7 @@ def write_table1_dataframe_to_json_file(df: pd.DataFrame, output_file: str) -> N
         output_file: Path to the output JSON file.
     """
     print(f"Writing table dataframe with {len(df):,} rows to JSON file {output_file}")
-    df.to_json(output_file, orient="records", indent=2)
+    df.to_json(output_file, orient="records", force_ascii=False, indent=2)
     print(f"Wrote table dataframe to JSON file.")
 
 

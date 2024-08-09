@@ -111,7 +111,7 @@
   },
   {
     "Category":"Beverage",
-    "Food":"Caff\u00e8 Latte",
+    "Food":"Caffè Latte",
     "Total":12.36,
     "TotalPercentile":0.2934131737,
     "TotalZscore":-0.5425490478,
@@ -595,7 +595,7 @@
   },
   {
     "Category":"Bread",
-    "Food":"Toast (white bread), 2\u00bd minutes in toaster",
+    "Food":"Toast (white bread), 2½ minutes in toaster",
     "Total":135.37,
     "TotalPercentile":0.9131736527,
     "TotalZscore":0.9269952515,
@@ -3917,7 +3917,7 @@
   },
   {
     "Category":"Milk and milk products",
-    "Food":"Half-baked souffl\u00e9s",
+    "Food":"Half-baked soufflés",
     "Total":8.03,
     "TotalPercentile":0.2365269461,
     "TotalZscore":-0.5942775805,
