@@ -17,7 +17,7 @@
     "G-H1":0.35,
     "MOLD":0.0,
     "MG-H2":0.91,
-    "MG-H1+3":1.89,
+    "MG-H1\/3":1.89,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -39,7 +39,7 @@
     "G-H1":0.27,
     "MOLD":0.0,
     "MG-H2":0.16,
-    "MG-H1+3":0.27,
+    "MG-H1\/3":0.27,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -61,7 +61,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.18,
+    "MG-H1\/3":0.18,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -83,7 +83,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.15,
-    "MG-H1+3":0.28,
+    "MG-H1\/3":0.28,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -105,7 +105,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -127,7 +127,7 @@
     "G-H1":1.64,
     "MOLD":0.0,
     "MG-H2":1.92,
-    "MG-H1+3":4.26,
+    "MG-H1\/3":4.26,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -149,7 +149,7 @@
     "G-H1":1.58,
     "MOLD":0.0,
     "MG-H2":1.59,
-    "MG-H1+3":3.81,
+    "MG-H1\/3":3.81,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -171,7 +171,7 @@
     "G-H1":1.14,
     "MOLD":0.0,
     "MG-H2":0.87,
-    "MG-H1+3":2.1,
+    "MG-H1\/3":2.1,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -193,7 +193,7 @@
     "G-H1":4.4,
     "MOLD":0.0,
     "MG-H2":4.59,
-    "MG-H1+3":9.27,
+    "MG-H1\/3":9.27,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -215,7 +215,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -237,7 +237,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -259,7 +259,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -281,7 +281,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -303,7 +303,7 @@
     "G-H1":0.15,
     "MOLD":0.0,
     "MG-H2":0.37,
-    "MG-H1+3":0.71,
+    "MG-H1\/3":0.71,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -325,7 +325,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -347,7 +347,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -369,7 +369,7 @@
     "G-H1":0.47,
     "MOLD":0.0,
     "MG-H2":0.96,
-    "MG-H1+3":1.67,
+    "MG-H1\/3":1.67,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -391,7 +391,7 @@
     "G-H1":4.71,
     "MOLD":0.0,
     "MG-H2":3.36,
-    "MG-H1+3":8.74,
+    "MG-H1\/3":8.74,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -413,7 +413,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -435,7 +435,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -457,7 +457,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -479,7 +479,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -501,7 +501,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -523,7 +523,7 @@
     "G-H1":0.85,
     "MOLD":0.0,
     "MG-H2":1.08,
-    "MG-H1+3":2.64,
+    "MG-H1\/3":2.64,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -545,7 +545,7 @@
     "G-H1":21.88,
     "MOLD":4.55,
     "MG-H2":13.77,
-    "MG-H1+3":31.75,
+    "MG-H1\/3":31.75,
     "Pentosidine":5.13,
     "Argpyrimidine":0.0
   },
@@ -567,7 +567,7 @@
     "G-H1":42.9,
     "MOLD":11.39,
     "MG-H2":31.73,
-    "MG-H1+3":78.67,
+    "MG-H1\/3":78.67,
     "Pentosidine":7.51,
     "Argpyrimidine":0.0
   },
@@ -589,7 +589,7 @@
     "G-H1":20.66,
     "MOLD":3.44,
     "MG-H2":11.84,
-    "MG-H1+3":32.73,
+    "MG-H1\/3":32.73,
     "Pentosidine":2.26,
     "Argpyrimidine":0.0
   },
@@ -611,7 +611,7 @@
     "G-H1":21.79,
     "MOLD":9.9,
     "MG-H2":25.57,
-    "MG-H1+3":42.85,
+    "MG-H1\/3":42.85,
     "Pentosidine":5.99,
     "Argpyrimidine":0.0
   },
@@ -633,7 +633,7 @@
     "G-H1":12.18,
     "MOLD":5.54,
     "MG-H2":14.7,
-    "MG-H1+3":24.62,
+    "MG-H1\/3":24.62,
     "Pentosidine":3.57,
     "Argpyrimidine":0.0
   },
@@ -655,7 +655,7 @@
     "G-H1":11.52,
     "MOLD":6.0,
     "MG-H2":15.86,
-    "MG-H1+3":26.64,
+    "MG-H1\/3":26.64,
     "Pentosidine":3.36,
     "Argpyrimidine":0.0
   },
@@ -677,7 +677,7 @@
     "G-H1":10.47,
     "MOLD":5.62,
     "MG-H2":16.09,
-    "MG-H1+3":27.65,
+    "MG-H1\/3":27.65,
     "Pentosidine":3.25,
     "Argpyrimidine":0.0
   },
@@ -699,7 +699,7 @@
     "G-H1":3.23,
     "MOLD":3.82,
     "MG-H2":10.32,
-    "MG-H1+3":18.7,
+    "MG-H1\/3":18.7,
     "Pentosidine":1.56,
     "Argpyrimidine":0.0
   },
@@ -721,7 +721,7 @@
     "G-H1":23.76,
     "MOLD":3.91,
     "MG-H2":15.65,
-    "MG-H1+3":38.9,
+    "MG-H1\/3":38.9,
     "Pentosidine":4.12,
     "Argpyrimidine":0.0
   },
@@ -743,7 +743,7 @@
     "G-H1":33.14,
     "MOLD":3.66,
     "MG-H2":8.72,
-    "MG-H1+3":18.29,
+    "MG-H1\/3":18.29,
     "Pentosidine":4.94,
     "Argpyrimidine":0.0
   },
@@ -765,7 +765,7 @@
     "G-H1":10.21,
     "MOLD":0.55,
     "MG-H2":21.34,
-    "MG-H1+3":47.41,
+    "MG-H1\/3":47.41,
     "Pentosidine":3.26,
     "Argpyrimidine":0.0
   },
@@ -787,7 +787,7 @@
     "G-H1":3.98,
     "MOLD":0.74,
     "MG-H2":17.59,
-    "MG-H1+3":33.26,
+    "MG-H1\/3":33.26,
     "Pentosidine":2.1,
     "Argpyrimidine":0.0
   },
@@ -809,7 +809,7 @@
     "G-H1":6.96,
     "MOLD":2.75,
     "MG-H2":23.84,
-    "MG-H1+3":50.17,
+    "MG-H1\/3":50.17,
     "Pentosidine":3.24,
     "Argpyrimidine":0.0
   },
@@ -831,7 +831,7 @@
     "G-H1":2.96,
     "MOLD":0.33,
     "MG-H2":8.76,
-    "MG-H1+3":17.56,
+    "MG-H1\/3":17.56,
     "Pentosidine":0.85,
     "Argpyrimidine":0.0
   },
@@ -853,7 +853,7 @@
     "G-H1":3.58,
     "MOLD":1.07,
     "MG-H2":14.24,
-    "MG-H1+3":28.77,
+    "MG-H1\/3":28.77,
     "Pentosidine":1.54,
     "Argpyrimidine":0.0
   },
@@ -875,7 +875,7 @@
     "G-H1":3.68,
     "MOLD":0.71,
     "MG-H2":13.78,
-    "MG-H1+3":24.8,
+    "MG-H1\/3":24.8,
     "Pentosidine":1.43,
     "Argpyrimidine":0.0
   },
@@ -897,7 +897,7 @@
     "G-H1":4.25,
     "MOLD":2.04,
     "MG-H2":17.2,
-    "MG-H1+3":44.85,
+    "MG-H1\/3":44.85,
     "Pentosidine":3.74,
     "Argpyrimidine":0.0
   },
@@ -919,7 +919,7 @@
     "G-H1":1.28,
     "MOLD":0.27,
     "MG-H2":9.6,
-    "MG-H1+3":18.83,
+    "MG-H1\/3":18.83,
     "Pentosidine":0.34,
     "Argpyrimidine":0.0
   },
@@ -941,7 +941,7 @@
     "G-H1":3.22,
     "MOLD":0.81,
     "MG-H2":14.92,
-    "MG-H1+3":34.65,
+    "MG-H1\/3":34.65,
     "Pentosidine":1.1,
     "Argpyrimidine":0.0
   },
@@ -963,7 +963,7 @@
     "G-H1":23.05,
     "MOLD":5.71,
     "MG-H2":50.78,
-    "MG-H1+3":123.0,
+    "MG-H1\/3":123.0,
     "Pentosidine":5.67,
     "Argpyrimidine":0.0
   },
@@ -985,7 +985,7 @@
     "G-H1":3.06,
     "MOLD":0.87,
     "MG-H2":9.26,
-    "MG-H1+3":21.12,
+    "MG-H1\/3":21.12,
     "Pentosidine":0.44,
     "Argpyrimidine":0.0
   },
@@ -1007,7 +1007,7 @@
     "G-H1":3.78,
     "MOLD":0.45,
     "MG-H2":13.78,
-    "MG-H1+3":22.66,
+    "MG-H1\/3":22.66,
     "Pentosidine":1.47,
     "Argpyrimidine":0.0
   },
@@ -1029,7 +1029,7 @@
     "G-H1":2.63,
     "MOLD":0.43,
     "MG-H2":14.83,
-    "MG-H1+3":23.93,
+    "MG-H1\/3":23.93,
     "Pentosidine":0.77,
     "Argpyrimidine":0.0
   },
@@ -1051,7 +1051,7 @@
     "G-H1":31.2,
     "MOLD":7.84,
     "MG-H2":84.91,
-    "MG-H1+3":184.31,
+    "MG-H1\/3":184.31,
     "Pentosidine":6.86,
     "Argpyrimidine":0.0
   },
@@ -1073,7 +1073,7 @@
     "G-H1":2.31,
     "MOLD":0.14,
     "MG-H2":9.68,
-    "MG-H1+3":21.74,
+    "MG-H1\/3":21.74,
     "Pentosidine":1.14,
     "Argpyrimidine":0.0
   },
@@ -1095,7 +1095,7 @@
     "G-H1":4.27,
     "MOLD":0.48,
     "MG-H2":10.8,
-    "MG-H1+3":22.48,
+    "MG-H1\/3":22.48,
     "Pentosidine":0.68,
     "Argpyrimidine":0.0
   },
@@ -1117,7 +1117,7 @@
     "G-H1":5.53,
     "MOLD":0.75,
     "MG-H2":20.11,
-    "MG-H1+3":38.42,
+    "MG-H1\/3":38.42,
     "Pentosidine":2.12,
     "Argpyrimidine":0.0
   },
@@ -1139,7 +1139,7 @@
     "G-H1":2.74,
     "MOLD":0.62,
     "MG-H2":17.96,
-    "MG-H1+3":37.14,
+    "MG-H1\/3":37.14,
     "Pentosidine":3.25,
     "Argpyrimidine":0.0
   },
@@ -1161,7 +1161,7 @@
     "G-H1":2.72,
     "MOLD":0.55,
     "MG-H2":4.3,
-    "MG-H1+3":16.74,
+    "MG-H1\/3":16.74,
     "Pentosidine":0.71,
     "Argpyrimidine":0.0
   },
@@ -1183,7 +1183,7 @@
     "G-H1":2.35,
     "MOLD":0.2,
     "MG-H2":8.65,
-    "MG-H1+3":20.24,
+    "MG-H1\/3":20.24,
     "Pentosidine":0.3,
     "Argpyrimidine":0.0
   },
@@ -1205,7 +1205,7 @@
     "G-H1":1.53,
     "MOLD":0.31,
     "MG-H2":3.5,
-    "MG-H1+3":10.8,
+    "MG-H1\/3":10.8,
     "Pentosidine":0.32,
     "Argpyrimidine":0.0
   },
@@ -1227,7 +1227,7 @@
     "G-H1":4.14,
     "MOLD":1.03,
     "MG-H2":11.17,
-    "MG-H1+3":23.68,
+    "MG-H1\/3":23.68,
     "Pentosidine":0.47,
     "Argpyrimidine":0.0
   },
@@ -1249,7 +1249,7 @@
     "G-H1":5.23,
     "MOLD":1.45,
     "MG-H2":15.23,
-    "MG-H1+3":32.28,
+    "MG-H1\/3":32.28,
     "Pentosidine":1.15,
     "Argpyrimidine":0.0
   },
@@ -1271,7 +1271,7 @@
     "G-H1":12.84,
     "MOLD":3.37,
     "MG-H2":36.18,
-    "MG-H1+3":63.14,
+    "MG-H1\/3":63.14,
     "Pentosidine":2.39,
     "Argpyrimidine":0.0
   },
@@ -1293,7 +1293,7 @@
     "G-H1":5.93,
     "MOLD":1.65,
     "MG-H2":22.59,
-    "MG-H1+3":43.09,
+    "MG-H1\/3":43.09,
     "Pentosidine":1.22,
     "Argpyrimidine":0.0
   },
@@ -1315,7 +1315,7 @@
     "G-H1":5.4,
     "MOLD":1.84,
     "MG-H2":27.48,
-    "MG-H1+3":53.73,
+    "MG-H1\/3":53.73,
     "Pentosidine":2.67,
     "Argpyrimidine":0.0
   },
@@ -1337,7 +1337,7 @@
     "G-H1":2.77,
     "MOLD":1.28,
     "MG-H2":14.8,
-    "MG-H1+3":32.61,
+    "MG-H1\/3":32.61,
     "Pentosidine":0.82,
     "Argpyrimidine":0.0
   },
@@ -1359,7 +1359,7 @@
     "G-H1":3.68,
     "MOLD":0.81,
     "MG-H2":13.04,
-    "MG-H1+3":23.98,
+    "MG-H1\/3":23.98,
     "Pentosidine":1.21,
     "Argpyrimidine":0.0
   },
@@ -1381,7 +1381,7 @@
     "G-H1":3.67,
     "MOLD":1.24,
     "MG-H2":14.84,
-    "MG-H1+3":32.46,
+    "MG-H1\/3":32.46,
     "Pentosidine":2.84,
     "Argpyrimidine":0.0
   },
@@ -1403,7 +1403,7 @@
     "G-H1":3.48,
     "MOLD":0.43,
     "MG-H2":9.17,
-    "MG-H1+3":21.94,
+    "MG-H1\/3":21.94,
     "Pentosidine":1.77,
     "Argpyrimidine":0.0
   },
@@ -1425,7 +1425,7 @@
     "G-H1":2.99,
     "MOLD":1.17,
     "MG-H2":10.75,
-    "MG-H1+3":21.55,
+    "MG-H1\/3":21.55,
     "Pentosidine":0.2,
     "Argpyrimidine":0.0
   },
@@ -1447,7 +1447,7 @@
     "G-H1":2.77,
     "MOLD":0.68,
     "MG-H2":10.1,
-    "MG-H1+3":17.81,
+    "MG-H1\/3":17.81,
     "Pentosidine":1.07,
     "Argpyrimidine":0.0
   },
@@ -1469,7 +1469,7 @@
     "G-H1":3.84,
     "MOLD":0.52,
     "MG-H2":11.23,
-    "MG-H1+3":18.94,
+    "MG-H1\/3":18.94,
     "Pentosidine":0.33,
     "Argpyrimidine":0.0
   },
@@ -1491,7 +1491,7 @@
     "G-H1":18.47,
     "MOLD":1.14,
     "MG-H2":37.18,
-    "MG-H1+3":86.49,
+    "MG-H1\/3":86.49,
     "Pentosidine":1.43,
     "Argpyrimidine":0.0
   },
@@ -1513,7 +1513,7 @@
     "G-H1":3.56,
     "MOLD":0.34,
     "MG-H2":12.48,
-    "MG-H1+3":24.98,
+    "MG-H1\/3":24.98,
     "Pentosidine":2.73,
     "Argpyrimidine":0.0
   },
@@ -1535,7 +1535,7 @@
     "G-H1":2.16,
     "MOLD":0.0,
     "MG-H2":5.83,
-    "MG-H1+3":6.7,
+    "MG-H1\/3":6.7,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -1557,7 +1557,7 @@
     "G-H1":20.28,
     "MOLD":0.0,
     "MG-H2":63.81,
-    "MG-H1+3":113.32,
+    "MG-H1\/3":113.32,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -1579,7 +1579,7 @@
     "G-H1":2.38,
     "MOLD":0.0,
     "MG-H2":7.2,
-    "MG-H1+3":8.36,
+    "MG-H1\/3":8.36,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -1601,7 +1601,7 @@
     "G-H1":1.61,
     "MOLD":0.03,
     "MG-H2":3.09,
-    "MG-H1+3":3.45,
+    "MG-H1\/3":3.45,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -1623,7 +1623,7 @@
     "G-H1":5.12,
     "MOLD":0.27,
     "MG-H2":6.05,
-    "MG-H1+3":7.57,
+    "MG-H1\/3":7.57,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -1645,7 +1645,7 @@
     "G-H1":5.83,
     "MOLD":0.25,
     "MG-H2":6.39,
-    "MG-H1+3":7.14,
+    "MG-H1\/3":7.14,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -1667,7 +1667,7 @@
     "G-H1":12.87,
     "MOLD":0.0,
     "MG-H2":22.73,
-    "MG-H1+3":30.14,
+    "MG-H1\/3":30.14,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -1689,7 +1689,7 @@
     "G-H1":15.0,
     "MOLD":0.01,
     "MG-H2":5.7,
-    "MG-H1+3":5.9,
+    "MG-H1\/3":5.9,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -1711,7 +1711,7 @@
     "G-H1":63.78,
     "MOLD":6.24,
     "MG-H2":23.04,
-    "MG-H1+3":26.58,
+    "MG-H1\/3":26.58,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -1733,7 +1733,7 @@
     "G-H1":1.53,
     "MOLD":1.76,
     "MG-H2":0.52,
-    "MG-H1+3":1.15,
+    "MG-H1\/3":1.15,
     "Pentosidine":2.15,
     "Argpyrimidine":0.0
   },
@@ -1755,7 +1755,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -1777,7 +1777,7 @@
     "G-H1":1.65,
     "MOLD":1.74,
     "MG-H2":0.36,
-    "MG-H1+3":0.85,
+    "MG-H1\/3":0.85,
     "Pentosidine":2.25,
     "Argpyrimidine":0.0
   },
@@ -1799,7 +1799,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -1821,7 +1821,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -1843,7 +1843,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -1865,7 +1865,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -1887,7 +1887,7 @@
     "G-H1":0.31,
     "MOLD":0.18,
     "MG-H2":1.44,
-    "MG-H1+3":3.82,
+    "MG-H1\/3":3.82,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -1909,7 +1909,7 @@
     "G-H1":1.78,
     "MOLD":0.29,
     "MG-H2":3.23,
-    "MG-H1+3":5.79,
+    "MG-H1\/3":5.79,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -1931,7 +1931,7 @@
     "G-H1":2.36,
     "MOLD":0.57,
     "MG-H2":3.99,
-    "MG-H1+3":7.39,
+    "MG-H1\/3":7.39,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -1953,7 +1953,7 @@
     "G-H1":2.35,
     "MOLD":0.61,
     "MG-H2":3.87,
-    "MG-H1+3":10.23,
+    "MG-H1\/3":10.23,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -1975,7 +1975,7 @@
     "G-H1":0.58,
     "MOLD":0.0,
     "MG-H2":1.92,
-    "MG-H1+3":3.56,
+    "MG-H1\/3":3.56,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -1997,7 +1997,7 @@
     "G-H1":5.83,
     "MOLD":1.42,
     "MG-H2":10.34,
-    "MG-H1+3":22.1,
+    "MG-H1\/3":22.1,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2019,7 +2019,7 @@
     "G-H1":1.15,
     "MOLD":0.13,
     "MG-H2":3.42,
-    "MG-H1+3":8.15,
+    "MG-H1\/3":8.15,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2041,7 +2041,7 @@
     "G-H1":2.76,
     "MOLD":0.42,
     "MG-H2":3.91,
-    "MG-H1+3":8.6,
+    "MG-H1\/3":8.6,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2063,7 +2063,7 @@
     "G-H1":0.59,
     "MOLD":0.16,
     "MG-H2":1.0,
-    "MG-H1+3":2.55,
+    "MG-H1\/3":2.55,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2085,7 +2085,7 @@
     "G-H1":2.16,
     "MOLD":0.27,
     "MG-H2":6.31,
-    "MG-H1+3":11.71,
+    "MG-H1\/3":11.71,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2107,7 +2107,7 @@
     "G-H1":10.23,
     "MOLD":1.4,
     "MG-H2":18.58,
-    "MG-H1+3":40.21,
+    "MG-H1\/3":40.21,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2129,7 +2129,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.18,
-    "MG-H1+3":0.47,
+    "MG-H1\/3":0.47,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2151,7 +2151,7 @@
     "G-H1":1.94,
     "MOLD":0.15,
     "MG-H2":1.39,
-    "MG-H1+3":2.8,
+    "MG-H1\/3":2.8,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2173,7 +2173,7 @@
     "G-H1":1.63,
     "MOLD":0.27,
     "MG-H2":3.72,
-    "MG-H1+3":8.26,
+    "MG-H1\/3":8.26,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2195,7 +2195,7 @@
     "G-H1":1.58,
     "MOLD":0.0,
     "MG-H2":1.68,
-    "MG-H1+3":4.35,
+    "MG-H1\/3":4.35,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2217,7 +2217,7 @@
     "G-H1":1.34,
     "MOLD":0.1,
     "MG-H2":3.67,
-    "MG-H1+3":6.91,
+    "MG-H1\/3":6.91,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2239,7 +2239,7 @@
     "G-H1":1.21,
     "MOLD":0.22,
     "MG-H2":1.43,
-    "MG-H1+3":3.73,
+    "MG-H1\/3":3.73,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2261,7 +2261,7 @@
     "G-H1":0.77,
     "MOLD":0.29,
     "MG-H2":1.27,
-    "MG-H1+3":2.92,
+    "MG-H1\/3":2.92,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2283,7 +2283,7 @@
     "G-H1":0.74,
     "MOLD":0.17,
     "MG-H2":1.04,
-    "MG-H1+3":3.47,
+    "MG-H1\/3":3.47,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2305,7 +2305,7 @@
     "G-H1":3.45,
     "MOLD":0.57,
     "MG-H2":11.79,
-    "MG-H1+3":24.14,
+    "MG-H1\/3":24.14,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2327,7 +2327,7 @@
     "G-H1":0.64,
     "MOLD":0.0,
     "MG-H2":0.1,
-    "MG-H1+3":0.45,
+    "MG-H1\/3":0.45,
     "Pentosidine":0.0,
     "Argpyrimidine":0.03
   },
@@ -2349,7 +2349,7 @@
     "G-H1":1.53,
     "MOLD":0.18,
     "MG-H2":0.61,
-    "MG-H1+3":0.85,
+    "MG-H1\/3":0.85,
     "Pentosidine":0.0,
     "Argpyrimidine":0.19
   },
@@ -2371,7 +2371,7 @@
     "G-H1":1.98,
     "MOLD":2.01,
     "MG-H2":1.16,
-    "MG-H1+3":1.89,
+    "MG-H1\/3":1.89,
     "Pentosidine":0.0,
     "Argpyrimidine":0.21
   },
@@ -2393,7 +2393,7 @@
     "G-H1":0.98,
     "MOLD":0.0,
     "MG-H2":0.53,
-    "MG-H1+3":0.85,
+    "MG-H1\/3":0.85,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2415,7 +2415,7 @@
     "G-H1":4.47,
     "MOLD":0.31,
     "MG-H2":1.56,
-    "MG-H1+3":3.4,
+    "MG-H1\/3":3.4,
     "Pentosidine":0.0,
     "Argpyrimidine":0.43
   },
@@ -2437,7 +2437,7 @@
     "G-H1":1.49,
     "MOLD":0.0,
     "MG-H2":1.28,
-    "MG-H1+3":1.75,
+    "MG-H1\/3":1.75,
     "Pentosidine":0.0,
     "Argpyrimidine":0.13
   },
@@ -2459,7 +2459,7 @@
     "G-H1":1.49,
     "MOLD":0.0,
     "MG-H2":1.42,
-    "MG-H1+3":1.93,
+    "MG-H1\/3":1.93,
     "Pentosidine":0.0,
     "Argpyrimidine":0.13
   },
@@ -2481,7 +2481,7 @@
     "G-H1":0.9,
     "MOLD":0.0,
     "MG-H2":1.07,
-    "MG-H1+3":1.58,
+    "MG-H1\/3":1.58,
     "Pentosidine":0.0,
     "Argpyrimidine":0.1
   },
@@ -2503,7 +2503,7 @@
     "G-H1":1.8,
     "MOLD":0.2,
     "MG-H2":0.69,
-    "MG-H1+3":0.92,
+    "MG-H1\/3":0.92,
     "Pentosidine":0.0,
     "Argpyrimidine":0.17
   },
@@ -2525,7 +2525,7 @@
     "G-H1":2.02,
     "MOLD":0.99,
     "MG-H2":3.83,
-    "MG-H1+3":8.23,
+    "MG-H1\/3":8.23,
     "Pentosidine":0.29,
     "Argpyrimidine":0.0
   },
@@ -2547,7 +2547,7 @@
     "G-H1":10.97,
     "MOLD":7.63,
     "MG-H2":27.15,
-    "MG-H1+3":43.64,
+    "MG-H1\/3":43.64,
     "Pentosidine":0.59,
     "Argpyrimidine":0.0
   },
@@ -2569,7 +2569,7 @@
     "G-H1":1.28,
     "MOLD":1.11,
     "MG-H2":2.41,
-    "MG-H1+3":6.72,
+    "MG-H1\/3":6.72,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2591,7 +2591,7 @@
     "G-H1":2.38,
     "MOLD":1.87,
     "MG-H2":3.51,
-    "MG-H1+3":7.98,
+    "MG-H1\/3":7.98,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2613,7 +2613,7 @@
     "G-H1":3.63,
     "MOLD":2.14,
     "MG-H2":7.49,
-    "MG-H1+3":12.06,
+    "MG-H1\/3":12.06,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2635,7 +2635,7 @@
     "G-H1":2.36,
     "MOLD":0.81,
     "MG-H2":3.23,
-    "MG-H1+3":8.77,
+    "MG-H1\/3":8.77,
     "Pentosidine":0.86,
     "Argpyrimidine":0.0
   },
@@ -2657,7 +2657,7 @@
     "G-H1":5.48,
     "MOLD":4.74,
     "MG-H2":10.27,
-    "MG-H1+3":22.71,
+    "MG-H1\/3":22.71,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2679,7 +2679,7 @@
     "G-H1":3.47,
     "MOLD":2.59,
     "MG-H2":4.38,
-    "MG-H1+3":10.4,
+    "MG-H1\/3":10.4,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2701,7 +2701,7 @@
     "G-H1":4.27,
     "MOLD":4.19,
     "MG-H2":6.41,
-    "MG-H1+3":17.45,
+    "MG-H1\/3":17.45,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2723,7 +2723,7 @@
     "G-H1":1.66,
     "MOLD":2.66,
     "MG-H2":3.69,
-    "MG-H1+3":9.87,
+    "MG-H1\/3":9.87,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2745,7 +2745,7 @@
     "G-H1":27.48,
     "MOLD":13.28,
     "MG-H2":68.26,
-    "MG-H1+3":158.98,
+    "MG-H1\/3":158.98,
     "Pentosidine":1.11,
     "Argpyrimidine":0.0
   },
@@ -2767,7 +2767,7 @@
     "G-H1":0.7,
     "MOLD":0.28,
     "MG-H2":2.44,
-    "MG-H1+3":7.56,
+    "MG-H1\/3":7.56,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2789,7 +2789,7 @@
     "G-H1":2.17,
     "MOLD":1.47,
     "MG-H2":11.61,
-    "MG-H1+3":22.57,
+    "MG-H1\/3":22.57,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2811,7 +2811,7 @@
     "G-H1":0.8,
     "MOLD":0.24,
     "MG-H2":4.98,
-    "MG-H1+3":12.14,
+    "MG-H1\/3":12.14,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2833,7 +2833,7 @@
     "G-H1":3.23,
     "MOLD":2.28,
     "MG-H2":14.27,
-    "MG-H1+3":21.77,
+    "MG-H1\/3":21.77,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2855,7 +2855,7 @@
     "G-H1":1.25,
     "MOLD":0.58,
     "MG-H2":3.77,
-    "MG-H1+3":10.94,
+    "MG-H1\/3":10.94,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2877,7 +2877,7 @@
     "G-H1":1.67,
     "MOLD":0.2,
     "MG-H2":1.47,
-    "MG-H1+3":4.5,
+    "MG-H1\/3":4.5,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2899,7 +2899,7 @@
     "G-H1":6.54,
     "MOLD":1.47,
     "MG-H2":3.95,
-    "MG-H1+3":12.46,
+    "MG-H1\/3":12.46,
     "Pentosidine":0.21,
     "Argpyrimidine":0.0
   },
@@ -2921,7 +2921,7 @@
     "G-H1":4.62,
     "MOLD":8.92,
     "MG-H2":13.45,
-    "MG-H1+3":31.8,
+    "MG-H1\/3":31.8,
     "Pentosidine":1.32,
     "Argpyrimidine":0.0
   },
@@ -2943,7 +2943,7 @@
     "G-H1":4.14,
     "MOLD":3.97,
     "MG-H2":3.47,
-    "MG-H1+3":10.57,
+    "MG-H1\/3":10.57,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2965,7 +2965,7 @@
     "G-H1":7.47,
     "MOLD":5.5,
     "MG-H2":9.74,
-    "MG-H1+3":20.35,
+    "MG-H1\/3":20.35,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -2987,7 +2987,7 @@
     "G-H1":3.64,
     "MOLD":6.68,
     "MG-H2":12.84,
-    "MG-H1+3":28.5,
+    "MG-H1\/3":28.5,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3009,7 +3009,7 @@
     "G-H1":0.96,
     "MOLD":0.53,
     "MG-H2":2.15,
-    "MG-H1+3":5.38,
+    "MG-H1\/3":5.38,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3031,7 +3031,7 @@
     "G-H1":1.74,
     "MOLD":1.42,
     "MG-H2":3.71,
-    "MG-H1+3":8.63,
+    "MG-H1\/3":8.63,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3053,7 +3053,7 @@
     "G-H1":0.47,
     "MOLD":0.58,
     "MG-H2":3.78,
-    "MG-H1+3":7.88,
+    "MG-H1\/3":7.88,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3075,7 +3075,7 @@
     "G-H1":6.03,
     "MOLD":0.23,
     "MG-H2":12.08,
-    "MG-H1+3":28.41,
+    "MG-H1\/3":28.41,
     "Pentosidine":0.35,
     "Argpyrimidine":0.0
   },
@@ -3097,7 +3097,7 @@
     "G-H1":3.26,
     "MOLD":1.67,
     "MG-H2":16.77,
-    "MG-H1+3":35.23,
+    "MG-H1\/3":35.23,
     "Pentosidine":0.59,
     "Argpyrimidine":0.0
   },
@@ -3119,7 +3119,7 @@
     "G-H1":2.87,
     "MOLD":0.99,
     "MG-H2":2.76,
-    "MG-H1+3":7.93,
+    "MG-H1\/3":7.93,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3141,7 +3141,7 @@
     "G-H1":1.96,
     "MOLD":0.5,
     "MG-H2":1.32,
-    "MG-H1+3":4.71,
+    "MG-H1\/3":4.71,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3163,7 +3163,7 @@
     "G-H1":3.11,
     "MOLD":1.04,
     "MG-H2":3.28,
-    "MG-H1+3":8.27,
+    "MG-H1\/3":8.27,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3185,7 +3185,7 @@
     "G-H1":2.67,
     "MOLD":0.31,
     "MG-H2":3.71,
-    "MG-H1+3":8.54,
+    "MG-H1\/3":8.54,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3207,7 +3207,7 @@
     "G-H1":1.8,
     "MOLD":1.79,
     "MG-H2":3.15,
-    "MG-H1+3":7.41,
+    "MG-H1\/3":7.41,
     "Pentosidine":0.33,
     "Argpyrimidine":0.0
   },
@@ -3229,7 +3229,7 @@
     "G-H1":3.17,
     "MOLD":1.92,
     "MG-H2":7.32,
-    "MG-H1+3":18.87,
+    "MG-H1\/3":18.87,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3251,7 +3251,7 @@
     "G-H1":3.91,
     "MOLD":1.74,
     "MG-H2":6.86,
-    "MG-H1+3":21.01,
+    "MG-H1\/3":21.01,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3273,7 +3273,7 @@
     "G-H1":6.73,
     "MOLD":3.75,
     "MG-H2":23.66,
-    "MG-H1+3":47.94,
+    "MG-H1\/3":47.94,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3295,7 +3295,7 @@
     "G-H1":2.62,
     "MOLD":4.23,
     "MG-H2":18.83,
-    "MG-H1+3":40.3,
+    "MG-H1\/3":40.3,
     "Pentosidine":0.16,
     "Argpyrimidine":0.0
   },
@@ -3317,7 +3317,7 @@
     "G-H1":4.77,
     "MOLD":3.81,
     "MG-H2":21.79,
-    "MG-H1+3":41.98,
+    "MG-H1\/3":41.98,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3339,7 +3339,7 @@
     "G-H1":3.45,
     "MOLD":2.24,
     "MG-H2":24.38,
-    "MG-H1+3":41.84,
+    "MG-H1\/3":41.84,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3361,7 +3361,7 @@
     "G-H1":3.55,
     "MOLD":8.19,
     "MG-H2":30.27,
-    "MG-H1+3":53.35,
+    "MG-H1\/3":53.35,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3383,7 +3383,7 @@
     "G-H1":6.89,
     "MOLD":8.87,
     "MG-H2":21.1,
-    "MG-H1+3":40.27,
+    "MG-H1\/3":40.27,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3405,7 +3405,7 @@
     "G-H1":2.91,
     "MOLD":4.93,
     "MG-H2":24.13,
-    "MG-H1+3":52.94,
+    "MG-H1\/3":52.94,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3427,7 +3427,7 @@
     "G-H1":5.83,
     "MOLD":9.09,
     "MG-H2":15.59,
-    "MG-H1+3":36.56,
+    "MG-H1\/3":36.56,
     "Pentosidine":0.43,
     "Argpyrimidine":0.0
   },
@@ -3449,7 +3449,7 @@
     "G-H1":8.74,
     "MOLD":3.13,
     "MG-H2":10.74,
-    "MG-H1+3":28.55,
+    "MG-H1\/3":28.55,
     "Pentosidine":0.24,
     "Argpyrimidine":0.0
   },
@@ -3471,7 +3471,7 @@
     "G-H1":0.8,
     "MOLD":2.18,
     "MG-H2":3.4,
-    "MG-H1+3":12.89,
+    "MG-H1\/3":12.89,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3493,7 +3493,7 @@
     "G-H1":4.96,
     "MOLD":1.8,
     "MG-H2":20.45,
-    "MG-H1+3":36.35,
+    "MG-H1\/3":36.35,
     "Pentosidine":0.25,
     "Argpyrimidine":0.0
   },
@@ -3515,7 +3515,7 @@
     "G-H1":1.15,
     "MOLD":0.31,
     "MG-H2":12.43,
-    "MG-H1+3":25.93,
+    "MG-H1\/3":25.93,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3537,7 +3537,7 @@
     "G-H1":1.85,
     "MOLD":1.24,
     "MG-H2":8.97,
-    "MG-H1+3":23.07,
+    "MG-H1\/3":23.07,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3559,7 +3559,7 @@
     "G-H1":2.54,
     "MOLD":1.01,
     "MG-H2":11.14,
-    "MG-H1+3":16.88,
+    "MG-H1\/3":16.88,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3581,7 +3581,7 @@
     "G-H1":4.28,
     "MOLD":3.27,
     "MG-H2":15.82,
-    "MG-H1+3":38.85,
+    "MG-H1\/3":38.85,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3603,7 +3603,7 @@
     "G-H1":1.1,
     "MOLD":0.74,
     "MG-H2":2.72,
-    "MG-H1+3":5.98,
+    "MG-H1\/3":5.98,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3625,7 +3625,7 @@
     "G-H1":1.72,
     "MOLD":3.7,
     "MG-H2":5.72,
-    "MG-H1+3":18.99,
+    "MG-H1\/3":18.99,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3647,7 +3647,7 @@
     "G-H1":2.18,
     "MOLD":2.6,
     "MG-H2":13.4,
-    "MG-H1+3":24.28,
+    "MG-H1\/3":24.28,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3669,7 +3669,7 @@
     "G-H1":20.6,
     "MOLD":5.79,
     "MG-H2":28.82,
-    "MG-H1+3":61.31,
+    "MG-H1\/3":61.31,
     "Pentosidine":0.8,
     "Argpyrimidine":0.0
   },
@@ -3691,7 +3691,7 @@
     "G-H1":5.14,
     "MOLD":3.41,
     "MG-H2":19.97,
-    "MG-H1+3":45.33,
+    "MG-H1\/3":45.33,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3713,7 +3713,7 @@
     "G-H1":2.17,
     "MOLD":0.0,
     "MG-H2":0.87,
-    "MG-H1+3":1.82,
+    "MG-H1\/3":1.82,
     "Pentosidine":0.0,
     "Argpyrimidine":0.01
   },
@@ -3735,7 +3735,7 @@
     "G-H1":3.45,
     "MOLD":0.06,
     "MG-H2":3.92,
-    "MG-H1+3":10.96,
+    "MG-H1\/3":10.96,
     "Pentosidine":0.0,
     "Argpyrimidine":0.01
   },
@@ -3757,7 +3757,7 @@
     "G-H1":0.28,
     "MOLD":0.0,
     "MG-H2":0.89,
-    "MG-H1+3":2.35,
+    "MG-H1\/3":2.35,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3779,7 +3779,7 @@
     "G-H1":7.99,
     "MOLD":0.0,
     "MG-H2":3.17,
-    "MG-H1+3":9.78,
+    "MG-H1\/3":9.78,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3801,7 +3801,7 @@
     "G-H1":4.62,
     "MOLD":0.08,
     "MG-H2":11.05,
-    "MG-H1+3":24.46,
+    "MG-H1\/3":24.46,
     "Pentosidine":0.0,
     "Argpyrimidine":0.04
   },
@@ -3823,7 +3823,7 @@
     "G-H1":3.2,
     "MOLD":0.01,
     "MG-H2":4.41,
-    "MG-H1+3":9.56,
+    "MG-H1\/3":9.56,
     "Pentosidine":0.0,
     "Argpyrimidine":0.04
   },
@@ -3845,7 +3845,7 @@
     "G-H1":4.08,
     "MOLD":0.06,
     "MG-H2":0.74,
-    "MG-H1+3":1.8,
+    "MG-H1\/3":1.8,
     "Pentosidine":0.0,
     "Argpyrimidine":0.04
   },
@@ -3867,7 +3867,7 @@
     "G-H1":6.23,
     "MOLD":0.04,
     "MG-H2":3.81,
-    "MG-H1+3":8.5,
+    "MG-H1\/3":8.5,
     "Pentosidine":0.0,
     "Argpyrimidine":0.01
   },
@@ -3889,7 +3889,7 @@
     "G-H1":4.65,
     "MOLD":0.03,
     "MG-H2":1.57,
-    "MG-H1+3":3.42,
+    "MG-H1\/3":3.42,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3911,7 +3911,7 @@
     "G-H1":1.24,
     "MOLD":0.0,
     "MG-H2":1.97,
-    "MG-H1+3":9.12,
+    "MG-H1\/3":9.12,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3933,7 +3933,7 @@
     "G-H1":2.94,
     "MOLD":0.0,
     "MG-H2":0.91,
-    "MG-H1+3":2.16,
+    "MG-H1\/3":2.16,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3955,7 +3955,7 @@
     "G-H1":3.08,
     "MOLD":0.08,
     "MG-H2":0.7,
-    "MG-H1+3":3.61,
+    "MG-H1\/3":3.61,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -3977,7 +3977,7 @@
     "G-H1":3.17,
     "MOLD":0.02,
     "MG-H2":0.42,
-    "MG-H1+3":1.03,
+    "MG-H1\/3":1.03,
     "Pentosidine":0.0,
     "Argpyrimidine":0.03
   },
@@ -3999,7 +3999,7 @@
     "G-H1":3.3,
     "MOLD":0.06,
     "MG-H2":0.33,
-    "MG-H1+3":0.83,
+    "MG-H1\/3":0.83,
     "Pentosidine":0.0,
     "Argpyrimidine":0.04
   },
@@ -4021,7 +4021,7 @@
     "G-H1":1.03,
     "MOLD":0.0,
     "MG-H2":1.25,
-    "MG-H1+3":3.96,
+    "MG-H1\/3":3.96,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -4043,7 +4043,7 @@
     "G-H1":2.6,
     "MOLD":0.0,
     "MG-H2":0.55,
-    "MG-H1+3":2.67,
+    "MG-H1\/3":2.67,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -4065,7 +4065,7 @@
     "G-H1":0.4,
     "MOLD":0.01,
     "MG-H2":1.24,
-    "MG-H1+3":1.5,
+    "MG-H1\/3":1.5,
     "Pentosidine":0.0,
     "Argpyrimidine":0.05
   },
@@ -4087,7 +4087,7 @@
     "G-H1":4.38,
     "MOLD":0.0,
     "MG-H2":6.65,
-    "MG-H1+3":10.5,
+    "MG-H1\/3":10.5,
     "Pentosidine":0.0,
     "Argpyrimidine":0.03
   },
@@ -4109,7 +4109,7 @@
     "G-H1":1.66,
     "MOLD":0.33,
     "MG-H2":1.25,
-    "MG-H1+3":2.86,
+    "MG-H1\/3":2.86,
     "Pentosidine":0.45,
     "Argpyrimidine":0.0
   },
@@ -4131,7 +4131,7 @@
     "G-H1":2.04,
     "MOLD":0.0,
     "MG-H2":0.41,
-    "MG-H1+3":1.25,
+    "MG-H1\/3":1.25,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -4153,7 +4153,7 @@
     "G-H1":4.38,
     "MOLD":0.01,
     "MG-H2":1.22,
-    "MG-H1+3":3.34,
+    "MG-H1\/3":3.34,
     "Pentosidine":0.0,
     "Argpyrimidine":0.05
   },
@@ -4175,7 +4175,7 @@
     "G-H1":4.59,
     "MOLD":0.03,
     "MG-H2":1.11,
-    "MG-H1+3":3.63,
+    "MG-H1\/3":3.63,
     "Pentosidine":0.0,
     "Argpyrimidine":0.05
   },
@@ -4197,7 +4197,7 @@
     "G-H1":0.4,
     "MOLD":0.0,
     "MG-H2":0.09,
-    "MG-H1+3":0.24,
+    "MG-H1\/3":0.24,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -4219,7 +4219,7 @@
     "G-H1":4.47,
     "MOLD":0.05,
     "MG-H2":1.68,
-    "MG-H1+3":8.33,
+    "MG-H1\/3":8.33,
     "Pentosidine":0.0,
     "Argpyrimidine":0.03
   },
@@ -4241,7 +4241,7 @@
     "G-H1":2.55,
     "MOLD":0.03,
     "MG-H2":0.48,
-    "MG-H1+3":0.77,
+    "MG-H1\/3":0.77,
     "Pentosidine":0.0,
     "Argpyrimidine":0.06
   },
@@ -4263,7 +4263,7 @@
     "G-H1":4.4,
     "MOLD":0.01,
     "MG-H2":0.64,
-    "MG-H1+3":1.8,
+    "MG-H1\/3":1.8,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -4285,7 +4285,7 @@
     "G-H1":4.97,
     "MOLD":0.0,
     "MG-H2":0.99,
-    "MG-H1+3":2.21,
+    "MG-H1\/3":2.21,
     "Pentosidine":0.0,
     "Argpyrimidine":0.02
   },
@@ -4307,7 +4307,7 @@
     "G-H1":1.92,
     "MOLD":0.0,
     "MG-H2":0.31,
-    "MG-H1+3":1.08,
+    "MG-H1\/3":1.08,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -4329,7 +4329,7 @@
     "G-H1":61.24,
     "MOLD":0.0,
     "MG-H2":32.58,
-    "MG-H1+3":33.21,
+    "MG-H1\/3":33.21,
     "Pentosidine":0.0,
     "Argpyrimidine":1.48
   },
@@ -4351,7 +4351,7 @@
     "G-H1":70.7,
     "MOLD":0.0,
     "MG-H2":114.99,
-    "MG-H1+3":154.5,
+    "MG-H1\/3":154.5,
     "Pentosidine":0.04,
     "Argpyrimidine":0.0
   },
@@ -4373,7 +4373,7 @@
     "G-H1":135.57,
     "MOLD":0.0,
     "MG-H2":57.04,
-    "MG-H1+3":121.96,
+    "MG-H1\/3":121.96,
     "Pentosidine":0.02,
     "Argpyrimidine":0.0
   },
@@ -4395,7 +4395,7 @@
     "G-H1":91.54,
     "MOLD":0.0,
     "MG-H2":188.71,
-    "MG-H1+3":223.82,
+    "MG-H1\/3":223.82,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -4417,7 +4417,7 @@
     "G-H1":123.5,
     "MOLD":0.04,
     "MG-H2":207.95,
-    "MG-H1+3":255.64,
+    "MG-H1\/3":255.64,
     "Pentosidine":0.03,
     "Argpyrimidine":0.0
   },
@@ -4439,7 +4439,7 @@
     "G-H1":122.48,
     "MOLD":0.04,
     "MG-H2":191.01,
-    "MG-H1+3":240.74,
+    "MG-H1\/3":240.74,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -4461,7 +4461,7 @@
     "G-H1":76.87,
     "MOLD":0.0,
     "MG-H2":103.34,
-    "MG-H1+3":188.31,
+    "MG-H1\/3":188.31,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -4483,7 +4483,7 @@
     "G-H1":8.66,
     "MOLD":0.0,
     "MG-H2":7.46,
-    "MG-H1+3":7.63,
+    "MG-H1\/3":7.63,
     "Pentosidine":0.0,
     "Argpyrimidine":1.76
   },
@@ -4505,7 +4505,7 @@
     "G-H1":36.46,
     "MOLD":0.0,
     "MG-H2":18.79,
-    "MG-H1+3":41.9,
+    "MG-H1\/3":41.9,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -4527,7 +4527,7 @@
     "G-H1":5.92,
     "MOLD":0.02,
     "MG-H2":14.82,
-    "MG-H1+3":18.34,
+    "MG-H1\/3":18.34,
     "Pentosidine":0.0,
     "Argpyrimidine":0.02
   },
@@ -4549,7 +4549,7 @@
     "G-H1":38.78,
     "MOLD":0.0,
     "MG-H2":27.81,
-    "MG-H1+3":57.62,
+    "MG-H1\/3":57.62,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -4571,7 +4571,7 @@
     "G-H1":1.81,
     "MOLD":0.02,
     "MG-H2":3.99,
-    "MG-H1+3":8.61,
+    "MG-H1\/3":8.61,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -4593,7 +4593,7 @@
     "G-H1":29.87,
     "MOLD":0.03,
     "MG-H2":10.16,
-    "MG-H1+3":28.61,
+    "MG-H1\/3":28.61,
     "Pentosidine":0.08,
     "Argpyrimidine":0.0
   },
@@ -4615,7 +4615,7 @@
     "G-H1":7.31,
     "MOLD":0.78,
     "MG-H2":10.51,
-    "MG-H1+3":18.85,
+    "MG-H1\/3":18.85,
     "Pentosidine":0.03,
     "Argpyrimidine":0.0
   },
@@ -4637,7 +4637,7 @@
     "G-H1":1.87,
     "MOLD":0.32,
     "MG-H2":5.08,
-    "MG-H1+3":11.6,
+    "MG-H1\/3":11.6,
     "Pentosidine":1.03,
     "Argpyrimidine":0.0
   },
@@ -4659,7 +4659,7 @@
     "G-H1":12.42,
     "MOLD":0.71,
     "MG-H2":13.91,
-    "MG-H1+3":34.67,
+    "MG-H1\/3":34.67,
     "Pentosidine":0.06,
     "Argpyrimidine":0.0
   },
@@ -4681,7 +4681,7 @@
     "G-H1":8.85,
     "MOLD":0.83,
     "MG-H2":12.7,
-    "MG-H1+3":27.8,
+    "MG-H1\/3":27.8,
     "Pentosidine":0.05,
     "Argpyrimidine":0.0
   },
@@ -4703,7 +4703,7 @@
     "G-H1":24.67,
     "MOLD":3.52,
     "MG-H2":12.77,
-    "MG-H1+3":37.91,
+    "MG-H1\/3":37.91,
     "Pentosidine":4.19,
     "Argpyrimidine":0.0
   },
@@ -4725,7 +4725,7 @@
     "G-H1":4.78,
     "MOLD":0.0,
     "MG-H2":6.95,
-    "MG-H1+3":18.82,
+    "MG-H1\/3":18.82,
     "Pentosidine":0.01,
     "Argpyrimidine":0.0
   },
@@ -4747,7 +4747,7 @@
     "G-H1":7.66,
     "MOLD":0.79,
     "MG-H2":8.1,
-    "MG-H1+3":15.58,
+    "MG-H1\/3":15.58,
     "Pentosidine":0.08,
     "Argpyrimidine":0.0
   },
@@ -4769,7 +4769,7 @@
     "G-H1":3.38,
     "MOLD":0.0,
     "MG-H2":4.69,
-    "MG-H1+3":9.78,
+    "MG-H1\/3":9.78,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -4791,7 +4791,7 @@
     "G-H1":48.78,
     "MOLD":0.0,
     "MG-H2":25.12,
-    "MG-H1+3":45.85,
+    "MG-H1\/3":45.85,
     "Pentosidine":0.06,
     "Argpyrimidine":0.0
   },
@@ -4813,7 +4813,7 @@
     "G-H1":1.75,
     "MOLD":0.01,
     "MG-H2":4.79,
-    "MG-H1+3":9.8,
+    "MG-H1\/3":9.8,
     "Pentosidine":0.01,
     "Argpyrimidine":0.0
   },
@@ -4835,7 +4835,7 @@
     "G-H1":24.39,
     "MOLD":4.04,
     "MG-H2":51.52,
-    "MG-H1+3":95.22,
+    "MG-H1\/3":95.22,
     "Pentosidine":4.88,
     "Argpyrimidine":0.0
   },
@@ -4857,7 +4857,7 @@
     "G-H1":20.18,
     "MOLD":0.8,
     "MG-H2":22.1,
-    "MG-H1+3":52.42,
+    "MG-H1\/3":52.42,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -4879,7 +4879,7 @@
     "G-H1":1.41,
     "MOLD":0.36,
     "MG-H2":3.58,
-    "MG-H1+3":8.94,
+    "MG-H1\/3":8.94,
     "Pentosidine":0.03,
     "Argpyrimidine":0.0
   },
@@ -4901,7 +4901,7 @@
     "G-H1":4.98,
     "MOLD":0.61,
     "MG-H2":8.7,
-    "MG-H1+3":15.4,
+    "MG-H1\/3":15.4,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -4923,7 +4923,7 @@
     "G-H1":10.57,
     "MOLD":0.04,
     "MG-H2":10.71,
-    "MG-H1+3":27.46,
+    "MG-H1\/3":27.46,
     "Pentosidine":0.04,
     "Argpyrimidine":0.0
   },
@@ -4945,7 +4945,7 @@
     "G-H1":72.43,
     "MOLD":6.44,
     "MG-H2":35.42,
-    "MG-H1+3":64.46,
+    "MG-H1\/3":64.46,
     "Pentosidine":5.02,
     "Argpyrimidine":0.0
   },
@@ -4967,7 +4967,7 @@
     "G-H1":14.77,
     "MOLD":0.0,
     "MG-H2":10.57,
-    "MG-H1+3":23.84,
+    "MG-H1\/3":23.84,
     "Pentosidine":0.07,
     "Argpyrimidine":0.0
   },
@@ -4989,7 +4989,7 @@
     "G-H1":4.74,
     "MOLD":0.56,
     "MG-H2":8.97,
-    "MG-H1+3":21.88,
+    "MG-H1\/3":21.88,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5011,7 +5011,7 @@
     "G-H1":5.81,
     "MOLD":0.0,
     "MG-H2":7.11,
-    "MG-H1+3":15.8,
+    "MG-H1\/3":15.8,
     "Pentosidine":0.01,
     "Argpyrimidine":0.0
   },
@@ -5033,7 +5033,7 @@
     "G-H1":16.61,
     "MOLD":0.09,
     "MG-H2":23.43,
-    "MG-H1+3":50.42,
+    "MG-H1\/3":50.42,
     "Pentosidine":0.05,
     "Argpyrimidine":0.0
   },
@@ -5055,7 +5055,7 @@
     "G-H1":24.43,
     "MOLD":3.91,
     "MG-H2":32.73,
-    "MG-H1+3":68.95,
+    "MG-H1\/3":68.95,
     "Pentosidine":0.06,
     "Argpyrimidine":0.0
   },
@@ -5077,7 +5077,7 @@
     "G-H1":7.77,
     "MOLD":0.02,
     "MG-H2":4.6,
-    "MG-H1+3":11.54,
+    "MG-H1\/3":11.54,
     "Pentosidine":0.04,
     "Argpyrimidine":0.0
   },
@@ -5099,7 +5099,7 @@
     "G-H1":59.04,
     "MOLD":0.05,
     "MG-H2":30.27,
-    "MG-H1+3":63.21,
+    "MG-H1\/3":63.21,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5121,7 +5121,7 @@
     "G-H1":18.78,
     "MOLD":0.0,
     "MG-H2":14.22,
-    "MG-H1+3":32.49,
+    "MG-H1\/3":32.49,
     "Pentosidine":0.02,
     "Argpyrimidine":0.0
   },
@@ -5143,7 +5143,7 @@
     "G-H1":9.32,
     "MOLD":0.35,
     "MG-H2":8.64,
-    "MG-H1+3":20.49,
+    "MG-H1\/3":20.49,
     "Pentosidine":0.05,
     "Argpyrimidine":0.0
   },
@@ -5165,7 +5165,7 @@
     "G-H1":3.13,
     "MOLD":0.42,
     "MG-H2":5.03,
-    "MG-H1+3":13.74,
+    "MG-H1\/3":13.74,
     "Pentosidine":0.01,
     "Argpyrimidine":0.0
   },
@@ -5187,7 +5187,7 @@
     "G-H1":18.61,
     "MOLD":0.0,
     "MG-H2":42.61,
-    "MG-H1+3":95.11,
+    "MG-H1\/3":95.11,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5209,7 +5209,7 @@
     "G-H1":52.49,
     "MOLD":0.03,
     "MG-H2":59.29,
-    "MG-H1+3":138.62,
+    "MG-H1\/3":138.62,
     "Pentosidine":0.07,
     "Argpyrimidine":0.0
   },
@@ -5231,7 +5231,7 @@
     "G-H1":0.88,
     "MOLD":0.05,
     "MG-H2":0.37,
-    "MG-H1+3":0.82,
+    "MG-H1\/3":0.82,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5253,7 +5253,7 @@
     "G-H1":11.75,
     "MOLD":0.0,
     "MG-H2":5.15,
-    "MG-H1+3":10.73,
+    "MG-H1\/3":10.73,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5275,7 +5275,7 @@
     "G-H1":1.12,
     "MOLD":0.09,
     "MG-H2":0.84,
-    "MG-H1+3":2.13,
+    "MG-H1\/3":2.13,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5297,7 +5297,7 @@
     "G-H1":11.56,
     "MOLD":0.03,
     "MG-H2":5.28,
-    "MG-H1+3":12.14,
+    "MG-H1\/3":12.14,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5319,7 +5319,7 @@
     "G-H1":2.17,
     "MOLD":0.03,
     "MG-H2":1.29,
-    "MG-H1+3":2.46,
+    "MG-H1\/3":2.46,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5341,7 +5341,7 @@
     "G-H1":1.24,
     "MOLD":0.0,
     "MG-H2":2.82,
-    "MG-H1+3":6.38,
+    "MG-H1\/3":6.38,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5363,7 +5363,7 @@
     "G-H1":0.26,
     "MOLD":2.22,
     "MG-H2":0.33,
-    "MG-H1+3":1.01,
+    "MG-H1\/3":1.01,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5385,7 +5385,7 @@
     "G-H1":14.64,
     "MOLD":3.34,
     "MG-H2":16.07,
-    "MG-H1+3":34.66,
+    "MG-H1\/3":34.66,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5407,7 +5407,7 @@
     "G-H1":3.07,
     "MOLD":1.81,
     "MG-H2":12.28,
-    "MG-H1+3":13.16,
+    "MG-H1\/3":13.16,
     "Pentosidine":1.82,
     "Argpyrimidine":0.0
   },
@@ -5429,7 +5429,7 @@
     "G-H1":13.7,
     "MOLD":2.25,
     "MG-H2":14.96,
-    "MG-H1+3":26.57,
+    "MG-H1\/3":26.57,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5451,7 +5451,7 @@
     "G-H1":0.56,
     "MOLD":0.02,
     "MG-H2":0.59,
-    "MG-H1+3":1.43,
+    "MG-H1\/3":1.43,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5473,7 +5473,7 @@
     "G-H1":16.28,
     "MOLD":0.01,
     "MG-H2":13.8,
-    "MG-H1+3":26.43,
+    "MG-H1\/3":26.43,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5495,7 +5495,7 @@
     "G-H1":0.14,
     "MOLD":0.29,
     "MG-H2":1.04,
-    "MG-H1+3":3.19,
+    "MG-H1\/3":3.19,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5517,7 +5517,7 @@
     "G-H1":14.78,
     "MOLD":4.7,
     "MG-H2":12.4,
-    "MG-H1+3":21.51,
+    "MG-H1\/3":21.51,
     "Pentosidine":0.02,
     "Argpyrimidine":0.01
   },
@@ -5539,7 +5539,7 @@
     "G-H1":13.22,
     "MOLD":9.09,
     "MG-H2":8.59,
-    "MG-H1+3":18.98,
+    "MG-H1\/3":18.98,
     "Pentosidine":3.26,
     "Argpyrimidine":0.44
   },
@@ -5561,7 +5561,7 @@
     "G-H1":0.16,
     "MOLD":0.02,
     "MG-H2":0.12,
-    "MG-H1+3":0.49,
+    "MG-H1\/3":0.49,
     "Pentosidine":0.0,
     "Argpyrimidine":0.05
   },
@@ -5583,7 +5583,7 @@
     "G-H1":12.08,
     "MOLD":1.78,
     "MG-H2":5.84,
-    "MG-H1+3":15.53,
+    "MG-H1\/3":15.53,
     "Pentosidine":1.95,
     "Argpyrimidine":0.0
   },
@@ -5605,7 +5605,7 @@
     "G-H1":0.26,
     "MOLD":0.41,
     "MG-H2":1.15,
-    "MG-H1+3":2.11,
+    "MG-H1\/3":2.11,
     "Pentosidine":0.0,
     "Argpyrimidine":0.02
   },
@@ -5627,7 +5627,7 @@
     "G-H1":0.22,
     "MOLD":0.37,
     "MG-H2":0.83,
-    "MG-H1+3":1.88,
+    "MG-H1\/3":1.88,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5649,7 +5649,7 @@
     "G-H1":0.37,
     "MOLD":0.15,
     "MG-H2":0.14,
-    "MG-H1+3":0.35,
+    "MG-H1\/3":0.35,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5671,7 +5671,7 @@
     "G-H1":23.61,
     "MOLD":14.66,
     "MG-H2":13.59,
-    "MG-H1+3":22.6,
+    "MG-H1\/3":22.6,
     "Pentosidine":0.03,
     "Argpyrimidine":0.0
   },
@@ -5693,7 +5693,7 @@
     "G-H1":1.54,
     "MOLD":0.28,
     "MG-H2":7.25,
-    "MG-H1+3":15.66,
+    "MG-H1\/3":15.66,
     "Pentosidine":0.0,
     "Argpyrimidine":0.02
   },
@@ -5715,7 +5715,7 @@
     "G-H1":20.15,
     "MOLD":1.44,
     "MG-H2":11.27,
-    "MG-H1+3":34.4,
+    "MG-H1\/3":34.4,
     "Pentosidine":0.02,
     "Argpyrimidine":0.0
   },
@@ -5737,7 +5737,7 @@
     "G-H1":16.68,
     "MOLD":3.08,
     "MG-H2":18.67,
-    "MG-H1+3":28.12,
+    "MG-H1\/3":28.12,
     "Pentosidine":0.09,
     "Argpyrimidine":0.0
   },
@@ -5759,7 +5759,7 @@
     "G-H1":19.43,
     "MOLD":13.26,
     "MG-H2":18.08,
-    "MG-H1+3":39.91,
+    "MG-H1\/3":39.91,
     "Pentosidine":7.08,
     "Argpyrimidine":0.08
   },
@@ -5781,7 +5781,7 @@
     "G-H1":0.75,
     "MOLD":0.0,
     "MG-H2":17.7,
-    "MG-H1+3":27.67,
+    "MG-H1\/3":27.67,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5803,7 +5803,7 @@
     "G-H1":12.08,
     "MOLD":4.05,
     "MG-H2":15.58,
-    "MG-H1+3":30.31,
+    "MG-H1\/3":30.31,
     "Pentosidine":4.18,
     "Argpyrimidine":0.0
   },
@@ -5825,7 +5825,7 @@
     "G-H1":1.72,
     "MOLD":0.04,
     "MG-H2":14.78,
-    "MG-H1+3":28.44,
+    "MG-H1\/3":28.44,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5847,7 +5847,7 @@
     "G-H1":12.06,
     "MOLD":3.58,
     "MG-H2":16.34,
-    "MG-H1+3":32.75,
+    "MG-H1\/3":32.75,
     "Pentosidine":5.06,
     "Argpyrimidine":0.0
   },
@@ -5869,7 +5869,7 @@
     "G-H1":10.53,
     "MOLD":0.02,
     "MG-H2":4.88,
-    "MG-H1+3":11.63,
+    "MG-H1\/3":11.63,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5891,7 +5891,7 @@
     "G-H1":20.91,
     "MOLD":0.0,
     "MG-H2":11.92,
-    "MG-H1+3":27.43,
+    "MG-H1\/3":27.43,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5913,7 +5913,7 @@
     "G-H1":21.89,
     "MOLD":0.0,
     "MG-H2":12.9,
-    "MG-H1+3":30.53,
+    "MG-H1\/3":30.53,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5935,7 +5935,7 @@
     "G-H1":24.8,
     "MOLD":0.03,
     "MG-H2":51.48,
-    "MG-H1+3":120.0,
+    "MG-H1\/3":120.0,
     "Pentosidine":0.07,
     "Argpyrimidine":0.0
   },
@@ -5957,7 +5957,7 @@
     "G-H1":12.98,
     "MOLD":0.05,
     "MG-H2":18.65,
-    "MG-H1+3":42.36,
+    "MG-H1\/3":42.36,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -5979,7 +5979,7 @@
     "G-H1":24.55,
     "MOLD":0.04,
     "MG-H2":18.79,
-    "MG-H1+3":39.58,
+    "MG-H1\/3":39.58,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6001,7 +6001,7 @@
     "G-H1":20.39,
     "MOLD":0.01,
     "MG-H2":17.68,
-    "MG-H1+3":31.17,
+    "MG-H1\/3":31.17,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6023,7 +6023,7 @@
     "G-H1":15.2,
     "MOLD":0.01,
     "MG-H2":8.67,
-    "MG-H1+3":16.26,
+    "MG-H1\/3":16.26,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6045,7 +6045,7 @@
     "G-H1":9.4,
     "MOLD":0.0,
     "MG-H2":3.08,
-    "MG-H1+3":10.03,
+    "MG-H1\/3":10.03,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6067,7 +6067,7 @@
     "G-H1":20.51,
     "MOLD":3.67,
     "MG-H2":29.11,
-    "MG-H1+3":51.11,
+    "MG-H1\/3":51.11,
     "Pentosidine":4.12,
     "Argpyrimidine":0.0
   },
@@ -6089,7 +6089,7 @@
     "G-H1":14.11,
     "MOLD":0.0,
     "MG-H2":12.92,
-    "MG-H1+3":14.89,
+    "MG-H1\/3":14.89,
     "Pentosidine":0.0,
     "Argpyrimidine":0.91
   },
@@ -6111,7 +6111,7 @@
     "G-H1":14.53,
     "MOLD":0.0,
     "MG-H2":11.23,
-    "MG-H1+3":20.19,
+    "MG-H1\/3":20.19,
     "Pentosidine":0.0,
     "Argpyrimidine":1.1
   },
@@ -6133,7 +6133,7 @@
     "G-H1":7.22,
     "MOLD":0.01,
     "MG-H2":13.14,
-    "MG-H1+3":14.58,
+    "MG-H1\/3":14.58,
     "Pentosidine":0.0,
     "Argpyrimidine":0.46
   },
@@ -6155,7 +6155,7 @@
     "G-H1":8.98,
     "MOLD":0.02,
     "MG-H2":6.92,
-    "MG-H1+3":7.23,
+    "MG-H1\/3":7.23,
     "Pentosidine":0.0,
     "Argpyrimidine":0.96
   },
@@ -6177,7 +6177,7 @@
     "G-H1":13.06,
     "MOLD":0.0,
     "MG-H2":10.12,
-    "MG-H1+3":12.18,
+    "MG-H1\/3":12.18,
     "Pentosidine":0.0,
     "Argpyrimidine":0.84
   },
@@ -6199,7 +6199,7 @@
     "G-H1":12.88,
     "MOLD":0.0,
     "MG-H2":9.6,
-    "MG-H1+3":12.45,
+    "MG-H1\/3":12.45,
     "Pentosidine":0.0,
     "Argpyrimidine":0.4
   },
@@ -6221,7 +6221,7 @@
     "G-H1":27.32,
     "MOLD":0.03,
     "MG-H2":11.06,
-    "MG-H1+3":35.54,
+    "MG-H1\/3":35.54,
     "Pentosidine":0.01,
     "Argpyrimidine":0.0
   },
@@ -6243,7 +6243,7 @@
     "G-H1":3.54,
     "MOLD":0.0,
     "MG-H2":4.48,
-    "MG-H1+3":4.99,
+    "MG-H1\/3":4.99,
     "Pentosidine":0.0,
     "Argpyrimidine":0.86
   },
@@ -6265,7 +6265,7 @@
     "G-H1":8.74,
     "MOLD":1.37,
     "MG-H2":10.49,
-    "MG-H1+3":25.74,
+    "MG-H1\/3":25.74,
     "Pentosidine":0.16,
     "Argpyrimidine":0.0
   },
@@ -6287,7 +6287,7 @@
     "G-H1":4.85,
     "MOLD":0.83,
     "MG-H2":8.1,
-    "MG-H1+3":18.74,
+    "MG-H1\/3":18.74,
     "Pentosidine":0.05,
     "Argpyrimidine":0.0
   },
@@ -6309,7 +6309,7 @@
     "G-H1":17.99,
     "MOLD":3.68,
     "MG-H2":6.39,
-    "MG-H1+3":14.67,
+    "MG-H1\/3":14.67,
     "Pentosidine":4.84,
     "Argpyrimidine":0.0
   },
@@ -6331,7 +6331,7 @@
     "G-H1":3.88,
     "MOLD":0.27,
     "MG-H2":4.01,
-    "MG-H1+3":19.68,
+    "MG-H1\/3":19.68,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6353,7 +6353,7 @@
     "G-H1":7.03,
     "MOLD":0.74,
     "MG-H2":8.86,
-    "MG-H1+3":11.72,
+    "MG-H1\/3":11.72,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6375,7 +6375,7 @@
     "G-H1":17.57,
     "MOLD":0.03,
     "MG-H2":10.48,
-    "MG-H1+3":22.7,
+    "MG-H1\/3":22.7,
     "Pentosidine":0.03,
     "Argpyrimidine":0.0
   },
@@ -6397,7 +6397,7 @@
     "G-H1":15.74,
     "MOLD":3.52,
     "MG-H2":10.8,
-    "MG-H1+3":25.27,
+    "MG-H1\/3":25.27,
     "Pentosidine":5.31,
     "Argpyrimidine":0.0
   },
@@ -6419,7 +6419,7 @@
     "G-H1":9.16,
     "MOLD":2.35,
     "MG-H2":7.7,
-    "MG-H1+3":9.47,
+    "MG-H1\/3":9.47,
     "Pentosidine":0.0,
     "Argpyrimidine":0.61
   },
@@ -6441,7 +6441,7 @@
     "G-H1":15.49,
     "MOLD":0.0,
     "MG-H2":18.99,
-    "MG-H1+3":22.86,
+    "MG-H1\/3":22.86,
     "Pentosidine":0.0,
     "Argpyrimidine":1.22
   },
@@ -6463,7 +6463,7 @@
     "G-H1":15.44,
     "MOLD":0.75,
     "MG-H2":17.03,
-    "MG-H1+3":18.05,
+    "MG-H1\/3":18.05,
     "Pentosidine":0.0,
     "Argpyrimidine":9.22
   },
@@ -6485,7 +6485,7 @@
     "G-H1":0.44,
     "MOLD":0.0,
     "MG-H2":3.28,
-    "MG-H1+3":11.14,
+    "MG-H1\/3":11.14,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6507,7 +6507,7 @@
     "G-H1":12.76,
     "MOLD":0.0,
     "MG-H2":12.34,
-    "MG-H1+3":26.44,
+    "MG-H1\/3":26.44,
     "Pentosidine":0.0,
     "Argpyrimidine":0.71
   },
@@ -6529,7 +6529,7 @@
     "G-H1":1.07,
     "MOLD":0.21,
     "MG-H2":1.39,
-    "MG-H1+3":3.17,
+    "MG-H1\/3":3.17,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6551,7 +6551,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.13,
-    "MG-H1+3":0.24,
+    "MG-H1\/3":0.24,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6573,7 +6573,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6595,7 +6595,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.05,
-    "MG-H1+3":0.14,
+    "MG-H1\/3":0.14,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6617,7 +6617,7 @@
     "G-H1":0.52,
     "MOLD":0.14,
     "MG-H2":1.4,
-    "MG-H1+3":3.15,
+    "MG-H1\/3":3.15,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6639,7 +6639,7 @@
     "G-H1":0.63,
     "MOLD":0.23,
     "MG-H2":2.02,
-    "MG-H1+3":3.62,
+    "MG-H1\/3":3.62,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6661,7 +6661,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6683,7 +6683,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6705,7 +6705,7 @@
     "G-H1":0.04,
     "MOLD":0.0,
     "MG-H2":0.11,
-    "MG-H1+3":0.33,
+    "MG-H1\/3":0.33,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6727,7 +6727,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.12,
-    "MG-H1+3":0.54,
+    "MG-H1\/3":0.54,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6749,7 +6749,7 @@
     "G-H1":0.12,
     "MOLD":0.03,
     "MG-H2":0.39,
-    "MG-H1+3":0.77,
+    "MG-H1\/3":0.77,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6771,7 +6771,7 @@
     "G-H1":3.18,
     "MOLD":0.15,
     "MG-H2":5.44,
-    "MG-H1+3":11.33,
+    "MG-H1\/3":11.33,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6793,7 +6793,7 @@
     "G-H1":0.89,
     "MOLD":0.82,
     "MG-H2":1.89,
-    "MG-H1+3":4.01,
+    "MG-H1\/3":4.01,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6815,7 +6815,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6837,7 +6837,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6859,7 +6859,7 @@
     "G-H1":0.13,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.21,
+    "MG-H1\/3":0.21,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6881,7 +6881,7 @@
     "G-H1":0.15,
     "MOLD":0.16,
     "MG-H2":0.15,
-    "MG-H1+3":0.29,
+    "MG-H1\/3":0.29,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6903,7 +6903,7 @@
     "G-H1":0.21,
     "MOLD":0.0,
     "MG-H2":0.67,
-    "MG-H1+3":1.93,
+    "MG-H1\/3":1.93,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6925,7 +6925,7 @@
     "G-H1":0.66,
     "MOLD":0.23,
     "MG-H2":1.53,
-    "MG-H1+3":2.45,
+    "MG-H1\/3":2.45,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6947,7 +6947,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.18,
+    "MG-H1\/3":0.18,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6969,7 +6969,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -6991,7 +6991,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -7013,7 +7013,7 @@
     "G-H1":0.18,
     "MOLD":0.03,
     "MG-H2":0.29,
-    "MG-H1+3":0.88,
+    "MG-H1\/3":0.88,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -7035,7 +7035,7 @@
     "G-H1":0.3,
     "MOLD":0.12,
     "MG-H2":0.45,
-    "MG-H1+3":1.04,
+    "MG-H1\/3":1.04,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -7057,7 +7057,7 @@
     "G-H1":0.27,
     "MOLD":0.12,
     "MG-H2":0.52,
-    "MG-H1+3":1.2,
+    "MG-H1\/3":1.2,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -7079,7 +7079,7 @@
     "G-H1":2.58,
     "MOLD":0.78,
     "MG-H2":13.43,
-    "MG-H1+3":20.67,
+    "MG-H1\/3":20.67,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -7101,7 +7101,7 @@
     "G-H1":0.13,
     "MOLD":0.1,
     "MG-H2":0.85,
-    "MG-H1+3":1.83,
+    "MG-H1\/3":1.83,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -7123,7 +7123,7 @@
     "G-H1":0.26,
     "MOLD":0.2,
     "MG-H2":0.84,
-    "MG-H1+3":2.17,
+    "MG-H1\/3":2.17,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -7145,7 +7145,7 @@
     "G-H1":1.29,
     "MOLD":0.53,
     "MG-H2":6.95,
-    "MG-H1+3":12.59,
+    "MG-H1\/3":12.59,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -7167,7 +7167,7 @@
     "G-H1":1.94,
     "MOLD":0.04,
     "MG-H2":1.47,
-    "MG-H1+3":3.58,
+    "MG-H1\/3":3.58,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -7189,7 +7189,7 @@
     "G-H1":2.29,
     "MOLD":0.01,
     "MG-H2":2.63,
-    "MG-H1+3":4.18,
+    "MG-H1\/3":4.18,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -7211,7 +7211,7 @@
     "G-H1":8.45,
     "MOLD":0.19,
     "MG-H2":4.77,
-    "MG-H1+3":10.47,
+    "MG-H1\/3":10.47,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -7233,7 +7233,7 @@
     "G-H1":4.23,
     "MOLD":0.09,
     "MG-H2":3.57,
-    "MG-H1+3":8.46,
+    "MG-H1\/3":8.46,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -7255,7 +7255,7 @@
     "G-H1":0.42,
     "MOLD":0.09,
     "MG-H2":0.36,
-    "MG-H1+3":1.84,
+    "MG-H1\/3":1.84,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -7277,7 +7277,7 @@
     "G-H1":0.01,
     "MOLD":0.24,
     "MG-H2":0.46,
-    "MG-H1+3":1.45,
+    "MG-H1\/3":1.45,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -7299,7 +7299,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.0,
+    "MG-H1\/3":0.0,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -7321,7 +7321,7 @@
     "G-H1":0.4,
     "MOLD":0.33,
     "MG-H2":1.24,
-    "MG-H1+3":2.59,
+    "MG-H1\/3":2.59,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   },
@@ -7343,7 +7343,7 @@
     "G-H1":0.0,
     "MOLD":0.0,
     "MG-H2":0.0,
-    "MG-H1+3":0.2,
+    "MG-H1\/3":0.2,
     "Pentosidine":0.0,
     "Argpyrimidine":0.0
   }

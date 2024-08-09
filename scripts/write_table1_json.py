@@ -73,6 +73,9 @@ def convert_table1_data_to_dataframe(data: list[list[str]]) -> pd.DataFrame:
         df[total_col] = df[cols].sum(axis=1)
         df[f"{group}Percentile"] = df[total_col].rank(pct=True)
         df[f"{group}Zscore"] = (df[total_col] - df[total_col].mean()) / df[total_col].std()
+    
+    df = df[[c for c in df.columns if c not in AGE_NAMES] + AGE_NAMES]  # Move individual AGE columns to the end.
+    df.rename(columns={"Food": "Category", "Specification": "Food"}, inplace=True)
 
     print(f"Converted table data to dataframe with shape {"x".join(map(str, df.shape))}.")
     return df
@@ -83,14 +86,11 @@ def write_table1_dataframe_to_json_file(df: pd.DataFrame, output_file: str) -> N
 
     Args:
         df: Table dataframe
-        output_file: Path to the output text file.
+        output_file: Path to the output JSON file.
     """
-    df = df[[c for c in df.columns if c not in AGE_NAMES] + AGE_NAMES]  # Move individual AGE columns to the end.
-    df = df.rename(columns={"Food": "Category", "Specification": "Food", "MG-H1/3": "MG-H1+3"})  # Intentionally not in-place.
-    
     print(f"Writing table dataframe with {len(df):,} rows to JSON file {output_file}")
     df.to_json(output_file, orient="records", indent=2)
-    print(f"Wrote table dataframe to text file.")
+    print(f"Wrote table dataframe to JSON file.")
 
 
 def main() -> None:
