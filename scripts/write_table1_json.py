@@ -71,7 +71,7 @@ def convert_table1_data_to_dataframe(data: list[list[str]]) -> pd.DataFrame:
     for group, cols in col_groups.items():
         total_col = "Total" if group == "Total" else f"{group}Subtotal"
         df[total_col] = df[cols].sum(axis=1)
-        df[f"{group}Percentile"] = df[total_col].rank(pct=True)
+        df[f"{group}Percentile"] = df[total_col].rank(pct=True) * 100
         df[f"{group}Zscore"] = (df[total_col] - df[total_col].mean()) / df[total_col].std()
     
     df = df[[c for c in df.columns if c not in AGE_NAMES] + AGE_NAMES]  # Move individual AGE columns to the end.
@@ -89,7 +89,7 @@ def write_table1_dataframe_to_json_file(df: pd.DataFrame, output_file: str) -> N
         output_file: Path to the output JSON file.
     """
     print(f"Writing table dataframe with {len(df):,} rows to JSON file {output_file}")
-    df.to_json(output_file, orient="records", force_ascii=False, indent=2)
+    df.to_json(output_file, orient="records", double_precision=2, force_ascii=False, indent=2)
     print(f"Wrote table dataframe to JSON file.")
 
 
