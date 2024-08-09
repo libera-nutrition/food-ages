@@ -132,6 +132,8 @@
                 "order": [], // Disable initial sorting
                 "initComplete": function() {
                     var table = this;
+
+                    // Search logic for the 'Food' column:
                     $.fn.dataTable.ext.search.push(
                         function(settings, data, dataIndex) {
                             var food = data[1] || ""; // 'Food' column
@@ -142,6 +144,14 @@
                             return true;
                         }
                     );
+
+                    // Swap the positions of the search box and length menu:
+                    var lengthMenu = $('.dataTables_length');
+                    var searchBox = $('.dataTables_filter');
+                    lengthMenu.css('float', 'right');
+                    searchBox.css('float', 'left');
+                    lengthMenu.css('display', 'inline-block');
+                    searchBox.css('display', 'inline-block');
                 }
             });
         });
