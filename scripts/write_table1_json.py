@@ -1,5 +1,15 @@
+import diskcache
 import docx
+import dotenv
+import openai
+import numpy as np
 import pandas as pd
+from sklearn.preprocessing import MinMaxScaler
+from scipy.spatial.distance import cosine
+
+dotenv.load_dotenv()
+
+DISKCACHE = diskcache.FanoutCache(directory=".diskcache", timeout=1, size_limit=1024**3)
 
 INPUT_FILE = "assets/1-s2.0-S221345302400096X-mmc1.docx"
 OUTPUT_FILE = "docs/table1.json"
@@ -30,8 +40,49 @@ def set_pandas_display_options() -> None:
     display.precision = 2
     display.float_format = lambda x: '{:,.2f}'.format(x)  # Ref: https://stackoverflow.com/a/47614756/
 
-
 set_pandas_display_options()
+
+@DISKCACHE.memoize(tag="get_embedding")
+def get_embedding(text: str) -> list[float]:
+    """Return the embedding vector for the given text."""
+    print(f"Getting embedding for {text!r}.")
+    client = openai.OpenAI()
+    response = client.embeddings.create(input=text, model="text-embedding-3-large")
+    embedding = response.data[0].embedding
+    return embedding
+
+def get_food_centralities(texts: list[str], *, scale: bool = False, sort: bool = False) -> dict[str, float]:
+    """Return the food centralities of the specified texts in the range of 0 to 100.
+
+    Higher values indicate greater centrality to food.
+
+    The centralities are computed based on one minus the cosine distance of the text embeddings from the reference embedding of "Food".
+    
+    Args:
+        texts: List of texts to compute centralities for.
+        scale: Whether to minmax scale the distances to use the entire output range. Default is False.
+        sort: Whether to sort the centralities in descending order. Default is False.
+    """
+    reference_embedding = get_embedding("Food")
+    text_embeddings = {text: get_embedding(text) for text in texts}
+    distances = {text: float(cosine(reference_embedding, text_embedding)) for text, text_embedding in text_embeddings.items()}  # As a dict for debugging purposes.
+    distances = [d for d in distances.values()]  # As a list for optional scaling.
+    print(f"Unscaled embedding distance range of foods is from {min(distances):.2f} to {max(distances):.2f}.")
+    assert all(0 <= d <= 1 for d in distances)  # Required for computing centrality as `1 - distance`. If this fails, either mandate scaling, or compute centrality as `1 / (1 + distance)`.
+
+    if scale:
+        distances = MinMaxScaler(clip=True).fit_transform(np.array(list(distances)).reshape(-1, 1)).flatten().tolist()  # `clip=True`` is used to avoid a value such as 1.0000000000000002.
+        assert all(0 <= d <= 1 for d in distances), distances
+        print(f"Scaled embedding distance range of foods is from {min(distances):.2f} to {max(distances):.2f}.")
+    distances = {text: distance for text, distance in zip(texts, distances)}
+    centralities = {text: 1 - distance for text, distance in distances.items()}
+    assert all(0 <= c <= 1 for c in centralities.values())
+    centralities = {text: centrality * 100 for text, centrality in centralities.items()}  # Convert to percentage.
+    assert all(0 <= c <= 100 for c in centralities.values())
+    print(f"Embedding centralities range of foods is from {min(centralities.values()):.2f} to {max(centralities.values()):.2f}.")
+    if sort:
+        centralities = dict(sorted(centralities.items(), key=lambda item: item[1], reverse=True))
+    return centralities
 
 
 def read_table_from_docx_file(file_path: str, *, table_index: int = 0) -> list[list[str]]:
@@ -74,9 +125,13 @@ def convert_table1_data_to_dataframe(data: list[list[str]]) -> pd.DataFrame:
         df[f"{group}Percentile"] = df[total_col].rank(pct=True) * 100
         df[f"{group}Zscore"] = (df[total_col] - df[total_col].mean()) / df[total_col].std()
     
-    df = df[[c for c in df.columns if c not in AGE_NAMES] + AGE_NAMES]  # Move individual AGE columns to the end.
     df.rename(columns={"Food": "Category", "Specification": "Food"}, inplace=True)
-
+    
+    # food_centralities = get_food_centralities(df["Food"].tolist(), scale=True, sort=True)
+    # df["FoodCentrality"] = df["Food"].map(food_centralities)
+    # df.sort_values("FoodCentrality", ascending=False, inplace=True)
+    
+    df = df[[c for c in df.columns if c not in AGE_NAMES] + AGE_NAMES]  # Move individual AGE columns to the end.
     print(f"Converted table data to dataframe with shape {"x".join(map(str, df.shape))}.")
     return df
 

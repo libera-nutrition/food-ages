@@ -1,2 +1,8 @@
+diskcache
+numpy
+openai
 pandas
 python-docx
+python-dotenv
+scikit-learn
+scipy
