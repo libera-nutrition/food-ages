@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AGE values of foods</title>
+    <!-- DataTables CSS -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <!-- DataTables JS -->
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <style>
+        body {
+            background-color: #121212;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        table.dataTable {
+            background-color: #1e1e1e;
+            color: #ffffff;
+        }
+        table.dataTable thead {
+            background-color: #333333;
+        }
+        table.dataTable thead th {
+            color: #ffffff;
+        }
+        table.dataTable tbody tr {
+            background-color: #1e1e1e;
+        }
+        table.dataTable tbody tr:nth-child(even) {
+            background-color: #2a2a2a;
+        }
+        table.dataTable tbody tr:hover {
+            background-color: #444444;
+        }
+        .dataTables_filter input {
+            background-color: #333333;
+            color: #ffffff;
+            border: 1px solid #555555;
+        }
+        .dataTables_wrapper .dataTables_paginate .paginate_button {
+            background-color: #333333;
+            color: #ffffff;
+            border: none;
+        }
+        .dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+            background-color: #444444;
+            color: #ffffff;
+            border: none;
+        }
+        .dataTables_length select {
+            background-color: #333333;
+            color: #ffffff;
+            border: 1px solid #555555;
+        }
+    </style>
+</head>
+<body>
+    <h1>AGE values of foods</h1>
+    <p>This table presents the <a href="https://en.wikipedia.org/wiki/Advanced_glycation_end-product" target="_blank" style="color: #56ccf2;">advanced glycation end-products</a> (AGEs) values of various foods in mg/kg, constructed from table 1 and figure 1 of <a href="https://www.sciencedirect.com/science/article/pii/S221345302400096X#sec0105" target="_blank" style="color: #56ccf2;"><em>Appendix A. Supplementary material</em></a> in the 2024 study <a href="https://www.sciencedirect.com/science/article/pii/S221345302400096X" target="_blank" style="color: #56ccf2;"><em>Comprehensive analysis of advanced glycation end-products in commonly consumed foods: presenting a database for dietary AGEs and associated exposure assessment</em></a> <span style="font-size: 0.8em;">(<a href="https://doi.org/10.26599/FSHW.2022.9250159" target="_blank" style="color: #56ccf2;">doi.org/10.26599/FSHW.2022.9250159</a>)</span>.</p>
+    <table id="ageTable" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Category</th>
+                <th>Food</th>
+                <th>Total</th>
+                <th>Total Percentile</th>
+                <th>Total Zscore</th>
+                <th>Crosslinking Subtotal</th>
+                <th>Crosslinking Percentile</th>
+                <th>Crosslinking Zscore</th>
+                <th>NonCrosslinking Subtotal</th>
+                <th>NonCrosslinking Percentile</th>
+                <th>NonCrosslinking Zscore</th>
+                <th>CML</th>
+                <th>CEL</th>
+                <th>GOLD</th>
+                <th>G-H1</th>
+                <th>MOLD</th>
+                <th>MG-H2</th>
+                <th>MG-H1/3</th>
+                <th>Pentosidine</th>
+                <th>Argpyrimidine</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+
+    <script>
+        $(document).ready(function() {
+            $('#ageTable').DataTable({
+                "ajax": {
+                    "url": "data/table1.json",
+                    "dataSrc": ""
+                },
+                "columns": [
+                    { "data": "Category" },
+                    { "data": "Food" },
+                    { "data": "Total" },
+                    { "data": "TotalPercentile" },
+                    { "data": "TotalZscore" },
+                    { "data": "CrosslinkingSubtotal" },
+                    { "data": "CrosslinkingPercentile" },
+                    { "data": "CrosslinkingZscore" },
+                    { "data": "NonCrosslinkingSubtotal" },
+                    { "data": "NonCrosslinkingPercentile" },
+                    { "data": "NonCrosslinkingZscore" },
+                    { "data": "CML" },
+                    { "data": "CEL" },
+                    { "data": "GOLD" },
+                    { "data": "G-H1" },
+                    { "data": "MOLD" },
+                    { "data": "MG-H2" },
+                    { "data": "MG-H1/3" },
+                    { "data": "Pentosidine" },
+                    { "data": "Argpyrimidine" }
+                ],
+                "paging": true,
+                "searching": true,
+                "info": true,
+                "lengthChange": true,
+                "pageLength": 50,
+                "lengthMenu": [25, 50, 100, 200],
+                "dom": 'lfrtip',
+                "language": {
+                    "searchPlaceholder": "Search Food..."
+                },
+                "order": [], // Disable initial sorting
+                "scrollX": true,
+                "columnDefs": [
+                    { "orderable": true, "targets": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19], "orderSequence": ["desc", "asc"] }
+                ],
+                "initComplete": function() {
+                    var table = this;
+    
+                    // Search logic for the 'Food' column:
+                    $.fn.dataTable.ext.search.push(
+                        function(settings, data, dataIndex) {
+                            var food = data[1] || ""; // 'Food' column
+                            var filter = $('#ageTable_filter input').val();
+                            if (filter) {
+                                return food.toLowerCase().includes(filter.toLowerCase());
+                            }
+                            return true;
+                        }
+                    );
+    
+                    // Swap the positions of the search box and length menu:
+                    var lengthMenu = $('.dataTables_length');
+                    var searchBox = $('.dataTables_filter');
+                    lengthMenu.css('float', 'right');
+                    searchBox.css('float', 'left');
+                    lengthMenu.css('display', 'inline-block');
+                    searchBox.css('display', 'inline-block');
+                }
+            });
+        });
+    </script>    
+</body>
+</html>
