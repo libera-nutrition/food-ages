@@ -110,7 +110,7 @@ def convert_table1_data_to_dataframe(data: list[list[str]]) -> pd.DataFrame:
     print(f"Converting table data with {len(data):,} rows to dataframe.")
     columns = data[0]
     df = pd.DataFrame(data[1:], columns=columns)
-    df.sort_values(["Food", "Specification"], inplace=True)
+    df.sort_values(["Food", "Specification"], ignore_index=True, inplace=True)
     
     df[AGE_NAMES] = df[AGE_NAMES].astype(float)
 
