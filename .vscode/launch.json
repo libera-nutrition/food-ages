@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Python Debugger: write_table1_json_files",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "scripts.write_table1_json_files",
+            // "args": [],
+        }
+    ]
+}

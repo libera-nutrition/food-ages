@@ -12,7 +12,8 @@ dotenv.load_dotenv()
 DISKCACHE = diskcache.FanoutCache(directory=".diskcache", timeout=1, size_limit=1024**3)
 
 INPUT_FILE = "assets/1-s2.0-S221345302400096X-mmc1.docx"
-OUTPUT_FILE = "docs/table1.json"
+OUTPUT_FILE_MAIN = "docs/data/table1.json"
+OUTPUT_FILE_COOKING_METHOD = "docs/data/table1_cooking_method.json"
 
 CROSSLINKING_STATUS: dict[str, bool] = {  # From "Supplementary Figure 1" in input file. Order is as per "Supplementary Table 1" however.
     "CML": False,
@@ -135,23 +136,53 @@ def convert_table1_data_to_dataframe(data: list[list[str]]) -> pd.DataFrame:
     print(f"Converted table data to dataframe with shape {"x".join(map(str, df.shape))}.")
     return df
 
+def group_table1_by_cooking_method(df: pd.DataFrame) -> pd.DataFrame:
+    """Return the table dataframe grouped by cooking method."""
+    print(f"Grouping table dataframe by cooking method.")
+    df = df[['Food', 'Total', 'CrosslinkingSubtotal', 'NonCrosslinkingSubtotal']].copy()
 
-def write_table1_dataframe_to_json_file(df: pd.DataFrame, output_file: str) -> None:
-    """Write the table dataframe to the specified JSON file.
+    cooking_methods = ['boiled', 'caramelized', 'deep-fried', 'pan-fried', 'pasteurized', 'pickled', 'raw', 'roasted', 'steamed', 'stewed', 'stir-fried', 'UHT']
+
+    def extract_cooking_method(food: str) -> str | pd.NA.__class__:
+        for method in cooking_methods:
+            if food.endswith((f' ({method})', ' {method})')):
+                return method
+        return pd.NA
+
+    df['CookingMethod'] = df['Food'].apply(extract_cooking_method)
+    df.dropna(subset='CookingMethod', ignore_index=True, inplace=True)
+    df_grouped = df.groupby("CookingMethod").agg(
+        Count=pd.NamedAgg(column='Food', aggfunc='count'),
+        AvgTotal=pd.NamedAgg(column='Total', aggfunc='mean'),
+        AvgCrosslinkingSubtotal=pd.NamedAgg(column='CrosslinkingSubtotal', aggfunc='mean'),
+        AvgNonCrosslinkingSubtotal=pd.NamedAgg(column='NonCrosslinkingSubtotal', aggfunc='mean')
+    ).reset_index()
+    df_grouped.sort_values("CookingMethod", ignore_index=True, key=lambda series: series.str.lower(), inplace=True)
+    print(f"Grouped table dataframe by cooking method with shape {"x".join(map(str, df_grouped.shape))}.")
+    return df_grouped
+
+
+def write_dataframe_to_json_file(df: pd.DataFrame, output_file: str) -> None:
+    """Write the dataframe to the specified JSON file.
 
     Args:
-        df: Table dataframe
+        df: Dataframe
         output_file: Path to the output JSON file.
     """
-    print(f"Writing table dataframe with {len(df):,} rows to JSON file {output_file}")
+    print(f"Writing dataframe with {len(df):,} rows to JSON file {output_file}")
     df.to_json(output_file, orient="records", double_precision=2, force_ascii=False, indent=2)
-    print(f"Wrote table dataframe to JSON file.")
+    print(f"Wrote dataframe to JSON file {output_file}.")
 
 
 def main() -> None:
     data = read_table_from_docx_file(INPUT_FILE, table_index=0)
+
     df = convert_table1_data_to_dataframe(data)
-    write_table1_dataframe_to_json_file(df, OUTPUT_FILE)
+    write_dataframe_to_json_file(df, OUTPUT_FILE_MAIN)
+
+    df_grouped = group_table1_by_cooking_method(df)
+    # print(df_grouped)
+    write_dataframe_to_json_file(df_grouped, OUTPUT_FILE_COOKING_METHOD)
 
 
 if __name__ == "__main__":
