@@ -13,7 +13,7 @@ DISKCACHE = diskcache.FanoutCache(directory=".diskcache", timeout=1, size_limit=
 
 INPUT_FILE = "assets/1-s2.0-S221345302400096X-mmc1.docx"
 OUTPUT_FILE_MAIN = "docs/data/table1.json"
-OUTPUT_FILE_COOKING_METHOD = "docs/data/table1_cooking_method.json"
+OUTPUT_FILE_COOKING_METHOD = "docs/data/table1_by_cooking_method.json"
 
 CROSSLINKING_STATUS: dict[str, bool] = {  # From "Supplementary Figure 1" in input file. Order is as per "Supplementary Table 1" however.
     "CML": False,
